@@ -1,0 +1,9 @@
+.tile {
+  background: #ccc;
+  border: 1px solid #bbb;
+  font-size: 2rem;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  margin: 5px;
+}
